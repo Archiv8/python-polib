@@ -9,9 +9,9 @@
 # ToDo: Add files: Tooling
 # FixMe: Namcap warnings and errors
 
-# Maintainer:  twa022 <twa022 at gmail dot com>
-# Contributor: Esteban V. Carnevale <alfplayer@mailoo.com>
+# Maintainer: Ross Clark <archiv8@artisteducator.com>
 # Contributor: Ross Clark <archiv8@artisteducator.com>
+
 
 _pkgname=polib
 
